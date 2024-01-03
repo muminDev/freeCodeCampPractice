@@ -1,0 +1,1 @@
+This repository contains my solutions and practice code for the JavaScript Algorithms and Data Structures course on FreeCodeCamp. The course covers essential algorithms, data structures, and programming concepts using JavaScript.
